@@ -1,6 +1,8 @@
-한양대학교 공학설계 대회 2위 (우수상) 수상
+한양대학교 공학설계 대회 1위 수상
 
 # proportional-integral-derivative-control
+#######
+########################
 
 ## Drone PID control
 
